@@ -1,1 +1,1 @@
-# CelebV-HQ.github.io
+# CelebV-Text.github.io
